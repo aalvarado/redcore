@@ -1,0 +1,2 @@
+# redcore
+bot attempt
